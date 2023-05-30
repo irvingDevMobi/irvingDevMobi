@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @irvingDevMobi
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently learning flutter
-- 💞️ I’m a professional android developer always learning new things
+- 👋 Hi, I’m @irvingDevMobi.
+- 👀 I’m interested in mobile development.
+- 🌱 I’m currently learning Kotlin Mobile Multiplatform.
+- 💞️ I’m a professional Android Developer always learning new things.
 - 📫 How to reach me at twitter as @irvingDevMobi
 
 <!---
